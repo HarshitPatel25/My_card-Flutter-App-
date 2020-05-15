@@ -10,6 +10,8 @@ This project is a starting point for a Flutter application.
 It uses Stateless Widgets to Display the Details of the users and can be Modified my Defining the function of onPressed() in the Sourcecode. 
 
 
+![](images/Screenshot.png)
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
